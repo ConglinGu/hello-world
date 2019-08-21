@@ -1,12 +1,5 @@
 <<<<<<< HEAD
-qwer 
-
-
-
-
-
+qwer
 =======
 qwer
-
-asdf
 >>>>>>> v2
